@@ -1,5 +1,5 @@
 ### Bits and Bytes Association
-The Bits and Bytes Association (BBA) was created to improve communication between students and staff to enhance the quality of education for Introduction to Business Information Technology (IBIT), Business Information Technology (BIT), Business Technology Management (BTM) and Information Security (IS) programs offered at Red River College through the Applied Computer Education (ACE) department. Since its inception in 2015, BBA has grown to over 100 members today and continues to climb steadily. If you would like to join the Bits and Bytes, You can join our Discord!
+The Bits and Bytes Association (BBA) was created to improve communication between students and staff to enhance the quality of education for students in the Applied Computer Education (ACE) department. Since its inception in 2015, BBA has grown to over 150 members today and continues to climb steadily. Currently, the BBA serves the Business Information Technology (BIT), Application Development and Delivery (AD&D), IT Operations (IT Ops), Data Science and Machine Learning (DSML), Full Stack Development, Information Security (IS), and Cyber Security (CyberSec) programs. If you would like to join the Bits and Bytes Association, You can join our <a href ="https://discord.gg/RXySZQE"> Discord!</a>
 
 
 
